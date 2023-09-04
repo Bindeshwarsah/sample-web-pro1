@@ -11,7 +11,7 @@
     overflow: scroll;
 }
 .navContainer{
-    background-color: aqua;
+    background-color: red;
     width: 100%;
     height: 6rem;
     display: flex;
